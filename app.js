@@ -21,5 +21,6 @@ function handleSubmit(e){
     
     
     console.log(radioButtons);
+    console.log
 }    
 
